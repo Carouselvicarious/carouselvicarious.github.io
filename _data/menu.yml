@@ -1,8 +1,11 @@
 - title: About
   url: /about.md
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+- title: Listening
+  url: /listening.md
 
-- title: Designer
-  url: http://patdryburgh.com
+- title: Reading
+  url: /reading.md
+  
+- title: Journal
+  url: /journal.md
