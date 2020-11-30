@@ -1,8 +1,8 @@
 ---
-title: "Music Post"
+title: Music Post
 layout: post
 author: "Vic"
-categories: music
+category: music
 ---
 
 This is the first music post. 
