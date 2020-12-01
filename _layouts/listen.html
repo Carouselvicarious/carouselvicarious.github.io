@@ -9,14 +9,14 @@ layout: default
 {% else %}
   <header class="site-masthead">
     {% include menu.html %}
-    {% if site.title_listen %}
+    {% if site.title %}
       <h1>
-        {{ site.title_listen }}
+        {{ site.title }}
       </h1>
     {% endif %}
     {% if site.title %}
       <h2>
-        {{ site.description }}
+        {{ site.description_listen }}
       </h2>
     {% endif %}
   </header>
